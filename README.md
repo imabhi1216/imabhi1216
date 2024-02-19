@@ -1,17 +1,19 @@
-- 👋 Hi, I’m Abhishek Selokar, postgraduate student @ Indian Instiute Of Technology, Kharagpur
+- 👋 Hi, I’m Abhishek Selokar, a postgraduate student @ Indian Institute Of Technology, Kharagpur
 - 👀 I’m interested in Natural Language Processing, Computer Vision, Machine Learning, Speech Recognition and Deep Learning
-- 🌱 I’ve solved various real world problems using Deep learning and Machine Learning.
-- Some of my projects includes
-- 1. Resume parser
-- 2. AI powered Video Auditing Tool
-- 3. Product Matching using product title,attributes and images
-- 4. Smart Audio Journalling
-- 5. Cataract Detection using ML
-- 6. Plastic detection using YOLO
-- 7. Medical NPHIES code matching
-- 8. Arrhythmia Detection using ECG signal
-- 9. Multilingual Image Text Translator and Reader
-- 10. Digital English Teacher
+- 🌱 I’ve solved various real-world problems using Deep Learning and Machine Learning.
+- Some of my projects include
+- 
+- 1. Celebrity Recognition 
+- 2. AI-powered Video Auditing Tool
+  3. Resume parser
+- 4. Product Matching using product titles, attributes, and images
+- 5. Smart Audio Journalling
+- 6. Cataract Detection using ML
+- 7. Plastic detection using YOLO
+- 8. Medical NPHIES code matching
+- 9. Arrhythmia Detection using ECG signal
+- 10. Multilingual Image Text Translator and Reader
+- 11. Digital English Teacher
 
 ![image](https://user-images.githubusercontent.com/105545947/220055269-0d370777-c9ea-4dfe-8349-1bd0423de059.png)
 
