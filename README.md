@@ -3,8 +3,8 @@
 - 🌱 I’ve solved various real-world problems using Deep Learning and Machine Learning.
 - Some of my projects include
  
-- 1. Celebrity Recognition 
-- 2. AI-powered Video Auditing Tool
+ 1. Celebrity Recognition 
+ 2. AI-powered Video Auditing Tool
 - 3. Resume parser
 - 4. Product Matching using product titles, attributes, and images
 - 5. Smart Audio Journalling
