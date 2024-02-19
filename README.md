@@ -2,10 +2,10 @@
 - 👀 I’m interested in Natural Language Processing, Computer Vision, Machine Learning, Speech Recognition and Deep Learning
 - 🌱 I’ve solved various real-world problems using Deep Learning and Machine Learning.
 - Some of my projects include
-- 
+ 
 - 1. Celebrity Recognition 
 - 2. AI-powered Video Auditing Tool
-  3. Resume parser
+- 3. Resume parser
 - 4. Product Matching using product titles, attributes, and images
 - 5. Smart Audio Journalling
 - 6. Cataract Detection using ML
